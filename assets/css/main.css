@@ -3909,3 +3909,24 @@ input, select, textarea {
 			}
 
 		}
+
+/* Insta */
+
+.insta {
+	display: table;
+	width: auto;
+	margin: auto;
+}
+
+.insta-row {
+	display: table-row;
+	width: auto;
+	clear: both;
+}
+
+.insta-post {
+	float: left;
+	display: table-column;
+	padding: 1%;
+	width: 32%;
+}
